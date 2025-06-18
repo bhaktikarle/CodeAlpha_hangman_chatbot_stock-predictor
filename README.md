@@ -1,4 +1,4 @@
-# CodeAlpha_hangman-chatbot-stock_predictor
+# CodeAlpha_hangman_chatbot_stock-predictor
 
 This repository contains beginner to intermediate-level Python projects completed during my internship at CodeAlpha, showcasing practical applications of core programming concepts:
 
