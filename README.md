@@ -8,7 +8,7 @@ This repository contains beginner to intermediate-level Python projects complete
 
 3]Stock Price Predictor: A basic project demonstrating the use of logic to forecast trends based on input data.
 
-4]Repetitive task: Performed a real-life repetitive task of moving .jpg files from one folder to another.
+4]Repetitive task automation: Performed a real-life repetitive task of moving .jpg files from one folder to another.
 
 
 
